@@ -8,5 +8,6 @@ public class Main
     {
         new GameFrame();
         Gangster g = new Gangster("silenthill99", 10, 20);
+        System.out.println("Essai");
     }
 }
